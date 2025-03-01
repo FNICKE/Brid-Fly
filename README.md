@@ -1,6 +1,6 @@
 # 🐦 Flappy Bird - Pygame Edition
 
-🚀 **A fun and engaging Flappy Bird clone built using Python and Pygame!**  
+🚀 **A fun and engaging Flappy Bird clone built using Python and Pygame!**
 
 ## 📌 Features
 
@@ -29,3 +29,37 @@
 ```bash
 $ git clone <repository-url>
 $ cd flappy-bird-game
+```
+
+2️⃣ **Install dependencies:**  
+```bash
+$ pip install pygame
+```
+
+3️⃣ **Run the game:**  
+```bash
+$ python game.py
+```
+
+---
+
+## 🎮 Controls
+
+🎯 **Up Arrow (⬆️)** - Jump  
+🎯 **Down Arrow (⬇️)** - Fast descend  
+🎯 **SPACE** - Restart after Game Over  
+
+---
+
+## 📷 Screenshots
+
+![Flappy Bird Gameplay](https://via.placeholder.com/400x300)  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. Feel free to modify and distribute!  
+
+💡 **Enjoy the game and have fun coding!** 🚀🎮
+
