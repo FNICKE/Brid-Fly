@@ -53,7 +53,8 @@ $ python game.py
 
 ## 📷 Screenshots
 
-![Flappy Bird Gameplay](https://via.placeholder.com/400x300)  
+![Flappy Bird Gameplay](image.png)
+
 
 ---
 
